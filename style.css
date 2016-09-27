@@ -1,0 +1,35 @@
+
+
+
+header {
+	width: 600px;
+	height: 220px;
+	margin: auto; 
+	background-image: url("img/header.jpg"); 
+	background-repeat: no-repeat;
+}
+
+div {
+	width: 600px;
+	margin: auto;
+	background-color: white;
+}
+
+div.relative { position: static;
+			  left: 30px;
+			  }
+
+body {
+ 	background-image: url("img/bg.png");
+	
+}
+
+
+img {float: left;}
+
+
+
+ul {
+    float: left;
+    list-style-type: none;
+}
