@@ -1,0 +1,47 @@
+header {
+	width: 600px;
+	height: 360px;
+	margin: auto; 
+	margin-bottom: -100px;
+	background-image: url("img/header.jpg"); 
+	background-color: white; 
+	background-repeat: no-repeat;
+	margin-top: -44px;
+}
+body {
+	margin: 43px;
+ 	background-image: url("img/bg.png");
+ 	background-repeat: repeat-x;
+ 	
+}
+div {
+	width: 600px;
+	margin: auto;
+	margin-top: -8px;
+	margin-right: 416px;
+	background-color: white;
+}
+h1 {margin-top: -10px;
+}
+p {margin-top: -20px;}
+h2 {margin-top: -20px;
+    margin-bottom: 10px; }
+
+img.img1 {float: left;
+	width: 240px;
+	margin:5px 10px 10px 15px;
+}
+img.img2 {float: right;
+	width: 240px;
+	margin:20px 10px 20px 10px;
+}
+img.img3 {float:left;
+	height: 160px;
+	width: 290px;
+	margin:20px 15px 0px 10px;
+}
+
+ul {
+    float: left;
+    list-style-type: none;
+}
