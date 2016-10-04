@@ -1,0 +1,10 @@
+header {
+	width: 600px;
+	height: 360px;
+	margin: auto; 
+	margin-bottom: -100px;
+	background-image: url("img/header.jpg"); 
+	background-color: white; 
+	background-repeat: no-repeat;
+	margin-top: -24px;
+}

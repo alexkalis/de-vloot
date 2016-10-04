@@ -16,7 +16,6 @@ body {
  	margin-bottom: -100px;
  	background-repeat: repeat-x;
  	}
-
 div {
 	width: 600px;
 	margin: auto;
@@ -25,36 +24,25 @@ div {
 	background-color: white;
 	
 }	
-img.img1{float: left;
-	margin-right -20px;
-	margin-left: 10px;
+img.img1 {float: right;
 margin-right: 20px;
 }
-
-img.img2{float: left;
-	margin-bottom: 18px;
-	margin-right: 20px;
+img.img2 {float: left;
+margin-top: 20px;
+}
+img.img3 {float: left;
+margin: 20px 20px 200px 20px ;
 }
 
-img.img3{
-	float: right;
-	margin: 20px 20px 0px 20px;
-}
-
-
-h2 {margin-top: 6px;
-	margin-left: 10px;
-}
-
-p {margin-left: 10px; 
-	}
-
-ul {
+ul.top-menu {
 	float: left;
 	list-style: none;
 	margin-top: 100px;
 	margin-left: -28px;
 	display: inline-block;
-
 }
 
+
+
+p {margin-left: 10px; 
+	}
