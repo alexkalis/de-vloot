@@ -12,6 +12,7 @@ body {
 	margin: 43px;
  	background-image: url("img/bg.png");
  	background-repeat: repeat-x;
+ 	font-family: arial;
  	
 }
 div {
@@ -49,8 +50,11 @@ ul {
     display: inline-block;
 }
 
-a {
-	
-	list-style-type: none;
-	
-}
+
+a:link {color:white;}
+a:visited {color:lightblue;}
+a:hover {color: lightblue;}
+
+
+p {margin-left: 20px;
+	margin-right: 20px;}
